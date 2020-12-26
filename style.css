@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+ header {
+ background-color:lightblue;
+ font-size:20px;
+ border-radius:20px;
+ color:red;
+ }
+ h1{
+     text-decoration:none;
+     color:red;
+ }
+ footer {
+    background-color:yellow;
+    border:2px solid black;
+    padding:5px;
+ }
+ nav{
+   margin:20px;
+     border:2px solid gold;
+     border-radius:10px;
+ }
+ main p {
+     background-color:lightskyblue;
+     border-radius:30px;
+     padding:10px;
+ }
+ h2 {
+     color:lime;
+ }
